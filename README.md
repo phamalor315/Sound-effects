@@ -1,1 +1,2 @@
-# Sound-effects
+# Sound-effects 
+To use sound effects or audio recordings, you can upload audio files in formats like MP3 and WAV to various platforms or software that support audio editing and playback. Many online tools and applications allow you to easily upload, edit, and utilize these sound files for projects such as videos, podcasts, or presentations. Be sure to check the file size and format compatibility of the platform you’re using for optimal performance.
